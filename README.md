@@ -61,20 +61,20 @@ Label definitions:
 
 ---
 
-## 🔠 Transformers Used for Text Vectorization and Normalization
+## Transformers Used for Text Vectorization and Normalization
 
 * **CountVectorizer** (Bag of Words Model)
 * **TF-IDF** (Term Frequency-Inverse Document Frequency)
 
 ---
 
-## 🤖 Machine Learning Algorithms Used
+## Machine Learning Algorithms Used
 
 * Multinomial Naive Bayes
 
 ---
 
-## 📊 Performance Overview of ML Models
+## Performance Overview of ML Models
 * **CLASSIFICATION REPORT ** 
 | Metric / Class        | Precision | Recall | F1-Score | Support |
 | --------------------- | --------- | ------ | -------- | ------- |
