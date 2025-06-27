@@ -6,7 +6,7 @@ Here’s a cleaned-up, professional, and well-structured version of your README 
 
 ## Problem Statement
 
-The goal of this project is to detect fake product reviews from a large dataset containing reviews across various categories such as *Home and Office*, *Sports*, and more. Each review is associated with:
+The goal of this project is to detect fake product reviews from a large dataset containing reviews across various categories. Each review is associated with:
 
 * A product rating,
 * A label (`0` for *Genuine* reviews or `1` for *Potentially Fraudulent* human-written reviews),
