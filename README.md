@@ -74,16 +74,17 @@ Label definitions:
 
 ---
 
-## Performance Overview of ML Models
-* **CLASSIFICATION REPORT ** 
-| Metric / Class        | Precision | Recall | F1-Score | Support |
-| --------------------- | --------- | ------ | -------- | ------- |
-| **Class 0** (Genuine) | 0.71      | 0.71   | 0.71     | 17      |
-| **Class 1** (Fake)    | 0.72      | 0.72   | 0.72     | 18      |
-| **Macro Average**     | 0.71      | 0.71   | 0.71     | 35      |
-| **Weighted Average**  | 0.71      | 0.71   | 0.71     | 35      |
+## Performance Overview of Multinomial Naive-Bayes Model
+| Class            | Precision | Recall | F1-Score | Support |
+| ---------------- | --------- | ------ | -------- | ------- |
+| **0 (Genuine)**  | 0.71      | 0.71   | 0.71     | 17      |
+| **1 (Fake)**     | 0.72      | 0.72   | 0.72     | 18      |
+| **Macro Avg**    | 0.71      | 0.71   | 0.71     | 35      |
+| **Weighted Avg** | 0.71      | 0.71   | 0.71     | 35      |
+
 
 * **ACCURACY**
+  
 | Metric                        | Value      |
 | ----------------------------- | ---------- |
 | **Accuracy Score**            | 0.7143     |
