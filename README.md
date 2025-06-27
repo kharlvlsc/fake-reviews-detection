@@ -1,7 +1,3 @@
-Here’s a cleaned-up, professional, and well-structured version of your README file that keeps your content intact while improving grammar, clarity, and formatting:
-
----
-
 # Fake Reviews Detection
 
 ## Problem Statement
@@ -30,7 +26,7 @@ Label definitions:
 
 ---
 
-## 🛠️ Python Libraries and Packages Used
+## Python Libraries and Packages Used
 
 * `numpy`
 * `pandas`
